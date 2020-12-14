@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    factorial();
+    function factorial() {
+        let number = +prompt("Ban muon tinh giai thua cua bao nhieu ???");
+        let a = 1;
+        let b = '';
+        for (let i = 1; i <= number; i++) {
+            a *= i;
+        }
+        for (let i = 1; i <= number ; i++) {
+            if (i == number) {
+                b += `${i} =`;
+            }else {
+                b += `${i}*`;
+                // `${i}` == (+"b * i");(1 chuoi khi ket thuc vong lap)
+            }
+        }
+        alert('!'+number+' = '+b +a);
+    }
+</script>
+</body>
+</html>

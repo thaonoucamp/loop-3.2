@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    fibonacci();
+    function fibonacci() {
+        let a = 0;
+        let b = 1;
+        let c;
+        for (let i = 1; i < 10; i++) {
+            c = a + b;
+            document.write(c + '<br>');
+            a = b;
+            b = c;
+        }
+
+
+    }
+</script>
+</body>
+</html>
