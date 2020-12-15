@@ -6,14 +6,20 @@
 </head>
 <body>
 <script>
+    drawRectangle();
     function drawRectangle() {
-        for (let i = 1; i <= 10; i++) {
-            document.write('*');
-            if (i == 1 || i == 10) {
-                document.write()
+            let n = 5;
+            for (let i = 1; i <= n; i++) {
+                if (i == 1 || i == 5) {
+                    document.write("* ".repeat(10));
+                }
+                else {
+                    document.write("*" + "&nbsp &nbsp".repeat(8) + "*");
+                }
+                document.write("<br>");
+
             }
         }
-    }
 </script>
 </body>
 </html>

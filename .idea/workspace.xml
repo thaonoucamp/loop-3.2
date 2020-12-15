@@ -14,10 +14,6 @@
       <change afterPath="$PROJECT_DIR$/../loop-1.2/sum30Num%7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../loop-3/bap-tap-1.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../loop-3/tinh-giai-thua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demo4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../puzzle-2/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../puzzle-2/pz.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ARRAY/.idea/workspace.xml" afterDir="false" />
@@ -75,8 +71,8 @@
       <change beforePath="$PROJECT_DIR$/../function1/feet-meters.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/feet-meters.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function1/searchMinValueArr.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/searchMinValueArr.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../function1/sumArr.html" beforeDir="false" afterPath="$PROJECT_DIR$/../function1/sumArr.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rectangle.html" beforeDir="false" afterPath="$PROJECT_DIR$/rectangle.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mobile/iphone.js" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/iphone.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mobile/mobile.html" beforeDir="false" afterPath="$PROJECT_DIR$/../mobile/mobile.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../practice2Array/bai-tap-1.html" afterDir="false" />
@@ -133,7 +129,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607929523706</updated>
       <workItem from="1607929524824" duration="13766000" />
-      <workItem from="1607996706909" duration="11181000" />
+      <workItem from="1607996706909" duration="14328000" />
     </task>
     <servers />
   </component>
